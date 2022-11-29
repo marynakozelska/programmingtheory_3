@@ -1,0 +1,27 @@
+.news-post {
+    color: #282c34;
+    background-color: white;
+    display: block;
+    text-align: center;
+    padding: 2%;
+    margin: 3% 20%;
+}
+
+.news-post h2 {
+    text-align: center;
+}
+
+.news-post p {
+    padding: 2%;
+}
+
+.image-container {
+    width: 100%;
+    display: block;
+}
+
+.image-container img {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
